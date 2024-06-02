@@ -1,2 +1,2 @@
 # R-Agro-Harvest-Predictor
-A Multiple Linear Regression Model using Flask backend
+A Multiple Linear Regression Model using Flask backend.
